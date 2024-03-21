@@ -1,5 +1,5 @@
 - 👋 Merhaba, Ben @MedusaMarka
 - 👀 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-- 🌱 Şu an Python öğreniyorum
-- 💞️ İnstagram: medusa_marka
-- 📫 Discord: medusa_marka
+- 🌱 Şu an Python Kodu Yazıyorum
+- 💞️ İnstagram: medusa.v33
+- 📫 Discord: medusamarka
